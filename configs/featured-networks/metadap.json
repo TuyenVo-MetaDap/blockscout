@@ -1,0 +1,14 @@
+[{
+    "title": "Ethereum",
+    "url": "https://eth.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+},
+{
+    "title": "MetaDAP (EVM)",
+    "url": "https://explorer.testnet.chain.metadap.io/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibuya.svg",
+    "invertIconInDarkMode": true
+}
+]
