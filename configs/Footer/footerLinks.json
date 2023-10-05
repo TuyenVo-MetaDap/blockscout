@@ -1,0 +1,18 @@
+[  
+    {
+        "title": "MetaDAP Apps",
+        "links": 
+        [
+            {"text":"RETX","url" :"https://retx.vn"}
+        ]
+    },
+    {
+        "title": "MetaDAP Chain",
+        "links": 
+        [
+            {"text":"Government","url" :"https://staking.testnet.chain.metadap.io"},
+            {"text":"","url" :"https://retx.vn"}
+        ]
+    }
+
+]
