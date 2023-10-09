@@ -9,6 +9,7 @@
     "url": "https://explorer.testnet.chain.metadap.io/",
     "group": "Testnets",
     "icon": "https://raw.githubusercontent.com/TuyenVo-MetaDap/blockscout/main/configs/network-logos/metadap.svg",
-    "invertIconInDarkMode": true
+    "invertIconInDarkMode": false,
+    "isActive": true
 }
 ]
